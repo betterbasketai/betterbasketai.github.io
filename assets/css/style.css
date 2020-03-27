@@ -244,7 +244,7 @@ a,
 .bg-dark-30 .alt-module-subtitle h5,
 .bg-dark-60 .alt-module-subtitle h5,
 .bg-dark-90 .alt-module-subtitle h5 {
-  color: #fff;
+  color: #000;
 }
 
 .bg-dark {
@@ -697,7 +697,7 @@ a,
 .btn.btn-border-w {
   background: transparent;
   border: 1px solid rgba(255, 255, 255, 0.75);
-  color: #fff;
+  color: #000;
 }
 
 .btn.btn-border-w:hover,
